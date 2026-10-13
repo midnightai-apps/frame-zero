@@ -22,7 +22,7 @@ Need to show several images together? Arrange them in a collage so you can compa
 
 | Platform | Download | Requirements |
 | --- | --- | --- |
-| macOS | [Download for Mac](https://github.com/midnightai-apps/frame-zero/releases/download/macos-v0.1.4/Frame-Zero-0.1.4-arm64.dmg) | Apple Silicon · macOS 14 or later |
+| macOS | [Download for Mac](https://github.com/midnightai-apps/frame-zero/releases/download/macos-v0.1.5/Frame-Zero-0.1.5-arm64.dmg) | Apple Silicon · macOS 14 or later |
 | Windows | [Download for Windows](https://github.com/midnightai-apps/frame-zero/releases/download/windows-v0.1.1/FrameZero.exe) | Windows 11 x64 · Microsoft Edge WebView2 Runtime |
 
 On Mac, open the DMG and drag Frame Zero to Applications. On Windows, run `FrameZero.exe` directly. No installer is needed.
@@ -59,7 +59,7 @@ Frame Zero는 Mac과 Windows에서 쓰는 이미지 편집 앱이에요. 질문�
 
 | 운영체제 | 다운로드 | 필요한 환경 |
 | --- | --- | --- |
-| macOS | [Mac용 다운로드](https://github.com/midnightai-apps/frame-zero/releases/download/macos-v0.1.4/Frame-Zero-0.1.4-arm64.dmg) | Apple Silicon · macOS 14 이상 |
+| macOS | [Mac용 다운로드](https://github.com/midnightai-apps/frame-zero/releases/download/macos-v0.1.5/Frame-Zero-0.1.5-arm64.dmg) | Apple Silicon · macOS 14 이상 |
 | Windows | [Windows용 다운로드](https://github.com/midnightai-apps/frame-zero/releases/download/windows-v0.1.1/FrameZero.exe) | Windows 11 x64 · Microsoft Edge WebView2 Runtime |
 
 Mac에서는 DMG 파일을 열고 Frame Zero를 응용 프로그램 폴더로 옮겨 주세요. Windows에서는 `FrameZero.exe`를 바로 실행하면 돼요. 별도로 설치할 필요는 없어요.
