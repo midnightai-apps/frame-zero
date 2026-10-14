@@ -29,13 +29,9 @@ On Mac, open the DMG and drag Frame Zero to Applications. On Windows, run `Frame
 
 The app checks for updates automatically. Follow the in-app instructions when an update is available. See [Releases](https://github.com/midnightai-apps/frame-zero/releases) for all downloads and release notes.
 
-### Privacy and support
+### Privacy and notices
 
-[Privacy Policy](https://www.midnightai.net/html/frame-zero/privacy.html)
-
-Open-source notices and corresponding-source archives are included in the app under Settings.
-
-Questions? Contact [midnightai@midnightai.net](mailto:midnightai@midnightai.net).
+The Privacy Policy, open-source notices, and corresponding-source archives are available in the app under Settings.
 
 ---
 
@@ -66,10 +62,6 @@ Mac에서는 DMG 파일을 열고 Frame Zero를 응용 프로그램 폴더로 �
 
 앱에서 새 버전이 있는지 자동으로 확인해요. 업데이트가 있으면 앱의 안내에 따라 진행해 주세요. 모든 다운로드와 버전별 변경 내용은 [릴리즈 페이지](https://github.com/midnightai-apps/frame-zero/releases)에서 확인할 수 있어요.
 
-### 개인정보와 문의
+### 개인정보와 고지
 
-[개인정보 처리방침](https://www.midnightai.net/html/frame-zero/privacy.html)
-
-오픈소스 고지와 관련 소스 파일은 앱의 설정에 포함되어 있어요.
-
-궁금한 점은 [midnightai@midnightai.net](mailto:midnightai@midnightai.net)으로 보내 주세요.
+개인정보 처리방침, 오픈소스 고지와 관련 소스 파일은 앱의 설정에서 확인할 수 있어요.
